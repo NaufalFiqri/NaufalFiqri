@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/naufalfiqrii" target="blank"><img src="https://img.shields.io/twitter/follow/naufalfiqrii?logo=twitter&style=for-the-badge" alt="naufalfiqrii" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://naufalfiqri.netlify.app/](https://naufalfiqri.netlify.app/)
 
