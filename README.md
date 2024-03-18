@@ -1,7 +1,5 @@
-/*[![MasterHead](https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#query=front%20end%20developer&position=0&from_view=keyword&track=ais&uuid=48909fd9-8098-4228-a33b-26df10e2b17b)](https://naufalfiqri.netlify.app)*/
 <h1 align="center">Hi 👋, I'm Naufal Fiqri</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/programmer-working-with-css_5480318.htm#query=front%20end%20developer&position=49&from_view=keyword&track=ais&uuid=48909fd9-8098-4228-a33b-26df10e2b17b">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalfiqri&label=Profile%20views&color=0e75b6&style=flat" alt="naufalfiqri" /> </p>
 
